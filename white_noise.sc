@@ -6,7 +6,6 @@
 }.play;
 
 {
-	
 	BrownNoise.ar(
 	mul: SinOsc.kr(0.25).range(0, 0.25))
 }.play;
