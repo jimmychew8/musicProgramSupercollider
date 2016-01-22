@@ -1,4 +1,5 @@
-// Slow cycles of white noise. Sounds like the ocean.
+// Slow cycles of white noise with some Ugens. 
+// Sounds like the ocean.
 
 {
 	WhiteNoise.ar(
